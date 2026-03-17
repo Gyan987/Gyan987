@@ -29,10 +29,34 @@ Hacktoberfest-2025
 [![An image of @circuitovertime's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/circuitovertime)](...)
 
 
-<h3 align="left">Connect with me:</h3>
+<<h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/gyan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gyan" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/gyan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gyan" height="30" width="40" /></a>
+
+<a href="https://twitter.com/gyan" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/twitter.svg" height="30" width="40" />
+</a>
+
+<a href="https://linkedin.com/in/gyan" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" height="30" width="40" />
+</a>
+
+</p>
+
+<h3 align="left">💻 Coding Profiles:</h3>
+<p align="left">
+
+<a href="https://www.geeksforgeeks.org/profile/gyanprakc8gr" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/geeksforgeeks.svg" height="30" width="40" />
+</a>
+
+<a href="https://leetcode.com/u/G_P_T/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" height="30" width="40" />
+</a>
+
+<a href="https://register.nvidia.com/flow/nvidia/gtc26/ap/page/schedulev" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/nvidia.svg" height="30" width="40" />
+</a>
+
 </p>
 
 
