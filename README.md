@@ -33,11 +33,28 @@ Hacktoberfest-2025
 <p align="left">
 
 <a href="https://twitter.com/gyan" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/twitter.svg" height="30" width="40" />
+  <img src="https://img.icons8.com/color/48/twitter--v1.png" height="30" width="40"/>
 </a>
 
-<a href="https://linkedin.com/in/gyan" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" height="30" width="40" />
+<a href="https://www.linkedin.com/in/gyan-prakash-tiwari987/" target="_blank">
+  <img src="https://img.icons8.com/color/48/linkedin.png" height="30" width="40"/>
+</a>
+
+</p>
+
+<h3 align="left">💻 Coding Profiles:</h3>
+<p align="left">
+
+<a href="https://www.geeksforgeeks.org/profile/gyanprakc8gr" target="_blank">
+  <img src="https://img.icons8.com/color/48/GeeksforGeeks.png" height="30" width="40"/>
+</a>
+
+<a href="https://leetcode.com/u/G_P_T/" target="_blank">
+  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" height="30" width="40"/>
+</a>
+
+<a href="https://register.nvidia.com/flow/nvidia/gtc26/ap/page/schedulev" target="_blank">
+  <img src="https://img.icons8.com/color/48/nvidia.png" height="30" width="40"/>
 </a>
 
 </p>
