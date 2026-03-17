@@ -25,6 +25,9 @@
 
 - ⚡ Fun fact **I type more than I write!**
 
+[![An image of @circuitovertime's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/circuitovertime)](...)
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/gyan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gyan" height="30" width="40" /></a>
