@@ -25,7 +25,7 @@
 
 - ⚡ Fun fact **I type more than I write!**
 
-hacktoberfest-2025
+Hacktoberfest-2025
 [![An image of @circuitovertime's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/circuitovertime)](...)
 
 
