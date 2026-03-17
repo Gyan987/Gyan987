@@ -67,10 +67,14 @@ updating soon....
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
 </h1>
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Gyan987&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Gyan987&theme=dark&hide_border=false)<br/>
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=Gyan987&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
+
+![](https://nirzak-streak-stats.vercel.app/?user=Gyan987&theme=dark&hide_border=false)
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gyan987&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Gyan987&theme=radical&no-frame=false&no-bg=true&margin-w=4)
