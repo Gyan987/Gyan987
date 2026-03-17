@@ -59,22 +59,6 @@ Hacktoberfest-2025
 
 </p>
 
-<h3 align="left">💻 Coding Profiles:</h3>
-<p align="left">
-
-<a href="https://www.geeksforgeeks.org/profile/gyanprakc8gr" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/geeksforgeeks.svg" height="30" width="40" />
-</a>
-
-<a href="https://leetcode.com/u/G_P_T/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" height="30" width="40" />
-</a>
-
-<a href="https://register.nvidia.com/flow/nvidia/gtc26/ap/page/schedulev" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/nvidia.svg" height="30" width="40" />
-</a>
-
-</p>
 
 
 <!-- Snake Game Repo View -->
