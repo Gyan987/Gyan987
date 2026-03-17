@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Gyan Prakash Tiwari</h1>
 <h3 align="center">A passionate software Engineer from India</h3>
+<p>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=BD93F9&center=true&vCenter=true&width=435&lines=Open+Source+Contributor;DevOps+Engineer;Team+Leader;Tech+Entrepreneur" alt="Typing SVG" />
+  </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gyan987&label=Profile%20views&color=0e75b6&style=flat" alt="gyan987" /> </p>
 
