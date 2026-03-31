@@ -96,24 +96,53 @@ Hacktoberfest-2025 🔥
 </h1>
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Gyan987&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
+<div align="center">
 
-![](https://nirzak-streak-stats.vercel.app/?user=Gyan987&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api?username=Gyan987&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&show_icons=true&rank_icon=github)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gyan987&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://streak-stats.demolab.com/?user=Gyan987&theme=tokyonight&hide_border=true)
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gyan987&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gyan987&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=donut)
+
+</div>
+
+---
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Gyan987&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+<div align="center">
 
+![](https://github-profile-trophy.vercel.app/?username=Gyan987&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7)
+
+</div>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=Gyan987&theme=tokyo-night&hide_border=true&area=true)
+
+</div>
+
+---
+
+## 👁️ Profile Views
+
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=Gyan987&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
+
+</div>
 
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Gyan987&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Gyan987&icon=0&color=0)](https://visitcount.itsvg.in)
@@ -121,4 +150,5 @@ Hacktoberfest-2025 🔥
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/gyan) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/gyan) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/gyan) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/gyan) 
 
-  
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Gyan987&limit=5&theme=dark&combine_all_yearly_contributions=true)  
