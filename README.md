@@ -106,19 +106,6 @@ Hacktoberfest-2025 🔥
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Gyan987&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-# Hi there 👋 I'm Gyan
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gyan987&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=Gyan987&theme=dark&hide_border=false)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gyan987&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Gyan987&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
 
