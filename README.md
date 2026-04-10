@@ -8,6 +8,13 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Gyan987&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+</td>
+<td valign="top" width="60%" align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="460" />
+
+</td>
+
 
 
 <p align="left"> <a href="https://twitter.com/gyan" target="blank"><img src="https://img.shields.io/twitter/follow/gyan?logo=twitter&style=for-the-badge" alt="gyan" /></a> </p>
