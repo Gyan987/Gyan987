@@ -23,15 +23,11 @@
 
 - 👯 I’m looking to collaborate on **Cloud native Projects**
 
-- 👨‍💻 All of my projects are available at [WEBSITE](WEBSITE)
-
-- 📝 I regularly write articles on [a.link](a.link)
+- Location : India.
 
 - 💬 Ask me about **AIML**
 
 - 📫 How to reach me **gyanprakasht987@gmail.com**
-
-- 📄 Know about my experiences [r.link](r.link)
 
 - ⚡ Fun fact **I type more than I write!**
 
