@@ -51,13 +51,7 @@ Hacktoberfest-2025 🔥
 <h3 align="left">💻 Coding Profiles:</h3>
 <p align="left">
 
-<a href="https://www.geeksforgeeks.org/profile/gyanprakc8gr" target="_blank">
-  <img src="https://img.icons8.com/color/48/GeeksforGeeks.png" height="30" width="40"/>
-</a>
 
-<a href="https://leetcode.com/u/G_P_T/" target="_blank">
-  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" height="30" width="40"/>
-</a>
 
 <a href="https://register.nvidia.com/flow/nvidia/gtc26/ap/page/schedulev" target="_blank">
   <img src="https://img.icons8.com/color/48/nvidia.png" height="30" width="40"/>
