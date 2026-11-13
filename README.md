@@ -243,9 +243,9 @@
 
 <td width="50%" valign="top">
 
-### 🛡️ RakshaCircle
+### 🛡️ Circle
 
-**Privacy-focused Women's Safety Platform**
+**Privacy-focused Safety Platform**
 
 Built around **Stellar / Soroban** with a focus on decentralized safety and privacy-oriented technology.
 
